@@ -1,0 +1,1 @@
+/home/astrosteveo/Repos/claude-desktop-linux-installer/patchy-cnb/target/release/libpatchy_cnb.so: /home/astrosteveo/Repos/claude-desktop-linux-installer/patchy-cnb/build.rs /home/astrosteveo/Repos/claude-desktop-linux-installer/patchy-cnb/src/lib.rs
